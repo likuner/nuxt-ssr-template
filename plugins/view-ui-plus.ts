@@ -1,4 +1,4 @@
-import ViewUIPlus from 'view-ui-plus'
+// import ViewUIPlus from 'view-ui-plus'
 // import ViewUIPlus from '../../ViewUIPlus/src/index.js' // local testing
 
 export default defineNuxtPlugin((nuxtApp) => {

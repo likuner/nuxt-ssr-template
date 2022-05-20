@@ -10,6 +10,7 @@
     "validate": "html-validate validate.html"
   },
   "dependencies": {
+    "element-plus": "^2.2.0",
     "view-ui-plus": "^1.0.0"
   },
   "devDependencies": {
